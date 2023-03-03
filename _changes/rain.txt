@@ -1,24 +1,5 @@
+mods/data/rain/mod.txt
 mods/data/rain/rain-hard.json
-mods/characters/green-rain.json
-mods/characters/no-gf.json
-mods/stages/rain.json
-mods/stages/rain.lua
-mods/images/characters/green-rain.png
-mods/images/characters/green-rain.xml
-mods/images/characters/no-gf.png
-mods/images/characters/no-gf.xml
-mods/custom_events/Toggle Trail.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
-mods/images/bg.png
-mods/images/fog.png
-mods/images/fog.xml
-mods/images/rain.png
-mods/images/rain.xml
-mods/images/highlights.png
-mods/images/highlights.xml
 mods/songs/rain/Voices.ogg
 mods/songs/rain/voices.ogg
 mods/songs/rain/Inst.ogg

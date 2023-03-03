@@ -1,15 +1,8 @@
 mods/data/hell-fire/hell-fire-hard.json
 mods/data/hell-fire/losing char 2.lua
 mods/data/hell-fire/losing char.lua
+mods/data/hell-fire/mod.txt
 mods/data/hell-fire/script.lua
-mods/stages/house.json
-mods/stages/house.lua
-mods/custom_notetypes/green.lua
-mods/custom_events/fire.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
 mods/songs/hell-fire/Voices.ogg
 mods/songs/hell-fire/voices.ogg
 mods/songs/hell-fire/Inst.ogg

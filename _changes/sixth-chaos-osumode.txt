@@ -1,12 +1,7 @@
 mods/data/sixth-chaos/damage.lua
+mods/data/sixth-chaos/mod.txt
 mods/data/sixth-chaos/script.lua
 mods/data/sixth-chaos/sixth-chaos-hard.json
-mods/stages/nightmare.json
-mods/stages/nightmare.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
 mods/songs/sixth-chaos/Voices.ogg
 mods/songs/sixth-chaos/voices.ogg
 mods/songs/sixth-chaos/Inst.ogg

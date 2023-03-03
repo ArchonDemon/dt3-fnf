@@ -8,26 +8,12 @@ mods/data/miller/hench3.lua
 mods/data/miller/hench4.lua
 mods/data/miller/losing char.lua
 mods/data/miller/miller-hard.json
+mods/data/miller/mod.txt
 mods/data/miller/mom-icon.lua
 mods/data/miller/peter.lua
 mods/data/miller/pico-icon.lua
 mods/data/miller/script.lua
 mods/data/miller/steven.lua
-mods/stages/void.json
-mods/stages/void.lua
-mods/custom_notetypes/Spite Note.lua
-mods/custom_events/Object Play Animation.lua
-mods/custom_events/Set Property.lua
-mods/custom_events/Alter Visibility.lua
-mods/custom_events/Decrease Alpha.lua
-mods/custom_events/Flash Camera.lua
-mods/custom_events/Lower Bars.lua
-mods/custom_events/Add Alpha.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
-mods/sounds/dmg-spite.ogg
 mods/songs/miller/Voices.ogg
 mods/songs/miller/voices.ogg
 mods/songs/miller/Inst.ogg

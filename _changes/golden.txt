@@ -1,26 +1,7 @@
 mods/data/golden/golden-hard.json
 mods/data/golden/kas.lua
+mods/data/golden/mod.txt
 mods/data/golden/note.lua
-mods/characters/bf.json
-mods/characters/green.json
-mods/stages/house.json
-mods/stages/house.lua
-mods/images/characters/Boyfriend_Assets.png
-mods/images/characters/Boyfriend_Assets.xml
-mods/images/characters/green.png
-mods/images/characters/green.xml
-mods/custom_notetypes/p2.lua
-mods/custom_notetypes/p1p2.lua
-mods/custom_events/Set Cam Zoom.lua
-mods/custom_events/Decrease Alpha.lua
-mods/custom_events/Alter Visibility.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
-mods/images/house.png
-mods/images/highlights.png
-mods/images/highlights.xml
 mods/songs/golden/Voices.ogg
 mods/songs/golden/voices.ogg
 mods/songs/golden/Inst.ogg

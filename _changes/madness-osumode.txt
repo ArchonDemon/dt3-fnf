@@ -1,12 +1,7 @@
 mods/data/madness/events.json
 mods/data/madness/madness-hard.json
+mods/data/madness/mod.txt
 mods/data/madness/script.lua
-mods/stages/house.json
-mods/stages/house.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
 mods/songs/madness/Voices.ogg
 mods/songs/madness/voices.ogg
 mods/songs/madness/Inst.ogg

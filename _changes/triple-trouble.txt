@@ -2,76 +2,11 @@ mods/data/triple-trouble/electra.lua
 mods/data/triple-trouble/green.lua
 mods/data/triple-trouble/kas.lua
 mods/data/triple-trouble/miss health.lua
+mods/data/triple-trouble/mod.txt
 mods/data/triple-trouble/note.lua
 mods/data/triple-trouble/reaper.lua
 mods/data/triple-trouble/satan.lua
 mods/data/triple-trouble/triple-trouble-hard.json
-mods/characters/bf.json
-mods/characters/reaper-icon.json
-mods/stages/tt.json
-mods/stages/tt.lua
-mods/images/characters/Boyfriend_Assets.png
-mods/images/characters/Boyfriend_Assets.xml
-mods/images/characters/no-gf.png
-mods/images/characters/no-gf.xml
-mods/characters/satan-icon.json
-mods/characters/bf-K.json
-mods/images/characters/BoyFriend_K.png
-mods/images/characters/BoyFriend_K.xml
-mods/characters/electra-icon.json
-mods/characters/bf-mirror.json
-mods/images/characters/BoyFriend_Back.png
-mods/images/characters/BoyFriend_Back.xml
-mods/characters/kasandra-icon.json
-mods/characters/seth-icon.json
-mods/characters/bf-tt.json
-mods/images/characters/BOYFRIEND.png
-mods/images/characters/BOYFRIEND.xml
-mods/characters/green-icon.json
-mods/custom_notetypes/poison note.lua
-mods/custom_notetypes/Satan.lua
-mods/custom_notetypes/Gren.lua
-mods/custom_notetypes/Kas.lua
-mods/custom_notetypes/Danger_Note.lua
-mods/custom_notetypes/Electra.lua
-mods/custom_notetypes/Seth.lua
-mods/custom_notetypes/hit note.lua
-mods/custom_notetypes/Reaper.lua
-mods/custom_events/static.lua
-mods/custom_events/Set Property.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
-mods/images/Phase3/normal/glitch.png
-mods/images/Phase3/normal/TTTrees.png
-mods/images/Phase3/normal/BackBush.png
-mods/images/Phase3/normal/TopBushes.png
-mods/images/Phase3/normal/FGtree1.png
-mods/images/Phase3/normal/FGtree2.png
-mods/images/Phase3/secret dont check yet/reaper-jp.png
-mods/images/Phase3/secret dont check yet/reaper-jp.xml
-mods/images/Phase3/secret dont check yet/kasandra-jp.png
-mods/images/Phase3/secret dont check yet/kasandra-jp.xml
-mods/images/Phase3/secret dont check yet/green-jp.png
-mods/images/Phase3/secret dont check yet/green-jp.xml
-mods/sounds/jumpscare.ogg
-mods/images/notes/poison note.png
-mods/images/notes/poison note.xml
-mods/images/notes/poisonsplash.png
-mods/images/notes/poisonsplash.xml
-mods/images/spooky_jumpscare.png
-mods/images/spooky_jumpscare.xml
-mods/images/Danger_Notes.png
-mods/images/Danger_Notes.xml
-mods/images/notes/hit-notes.png
-mods/images/notes/hit-notes.xml
-mods/images/Phase3/Phase3Static.png
-mods/images/Phase3/static.png
-mods/images/Phase3/Phase3Static.xml
-mods/images/Phase3/static.xml
-mods/images/highlights.png
-mods/images/highlights.xml
 mods/songs/triple-trouble/Voices.ogg
 mods/songs/triple-trouble/voices.ogg
 mods/songs/triple-trouble/Inst.ogg

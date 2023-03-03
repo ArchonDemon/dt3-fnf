@@ -1,16 +1,8 @@
 mods/data/nightmare-run/events.json
 mods/data/nightmare-run/legfix.lua
+mods/data/nightmare-run/mod.txt
 mods/data/nightmare-run/nightmare-run-hard.json
 mods/data/nightmare-run/script.lua
-mods/stages/bendy.json
-mods/stages/bendy.lua
-mods/custom_notetypes/poison note.lua
-mods/custom_notetypes/hurt.lua
-mods/scripts/note-highlights.lua
-mods/scripts/shadow.lua
-mods/scripts/shadow2.lua
-mods/scripts/shadowOpp.lua
-mods/sounds/jumpscare.ogg
 mods/songs/nightmare-run/Voices.ogg
 mods/songs/nightmare-run/voices.ogg
 mods/songs/nightmare-run/Inst.ogg
