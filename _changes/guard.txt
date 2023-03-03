@@ -1,0 +1,30 @@
+mods/data/guard/guard-hard.json
+mods/data/guard/losing char.lua
+mods/characters/green-pl.json
+mods/characters/guardian.json
+mods/characters/gf.json
+mods/stages/guardian lair.json
+mods/stages/guardian lair.lua
+mods/images/characters/green.png
+mods/images/characters/green.xml
+mods/images/characters/guardian.png
+mods/images/characters/guardian.xml
+mods/images/characters/GF_ass.png
+mods/images/characters/GF_ass.xml
+mods/custom_events/Set Property.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/images/guardian lair/bg.png
+mods/images/guardian lair/bg light.png
+mods/images/guardian lair/ground.png
+mods/images/guardian lair/walls.png
+mods/images/guardian lair/stuff.png
+mods/images/guardian lair/light.png
+mods/images/highlights.png
+mods/images/highlights.xml
+mods/songs/guard/Voices.ogg
+mods/songs/guard/voices.ogg
+mods/songs/guard/Inst.ogg
+mods/songs/guard/inst.ogg

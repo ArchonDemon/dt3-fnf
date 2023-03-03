@@ -1,0 +1,6 @@
+1:boss-battle     1:regular-segment
+1:left-far        1:left-intro 2:slow
+1:right-far       1:right-intro
+1:bfHPfull        1:dadHPfull
+1:dadHPhalf       1:glitch
+1:cycle 2:alpha

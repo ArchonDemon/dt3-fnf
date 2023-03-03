@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boss-bar.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="elec10000" x="0" y="0" width="11" height="3" pivotX="19.1" pivotY="0" frameX="0" frameY="-25" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec10001" x="11" y="0" width="15" height="15" frameX="-8" frameY="-26" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec10002" x="26" y="0" width="53" height="45" frameX="-19" frameY="0" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec10003" x="79" y="0" width="38" height="24" frameX="-54" frameY="-10" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec10004" x="0" y="45" width="17" height="7" frameX="-78" frameY="-30" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec10005" x="17" y="45" width="6" height="3" frameX="-87" frameY="-35" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec10006" x="23" y="45" width="0" height="0" frameX="-19" frameY="0" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec20000" x="0" y="0" width="11" height="3" pivotX="19.1" pivotY="0" frameX="-25" frameY="-1" frameWidth="95" frameHeight="45"/>
+	<SubTexture name="elec20001" x="23" y="45" width="24" height="6" frameX="-21" frameY="-2" frameWidth="134" frameHeight="14"/>
+	<SubTexture name="elec20002" x="47" y="45" width="55" height="8" frameX="0" frameY="-6" frameWidth="134" frameHeight="14"/>
+	<SubTexture name="elec20003" x="0" y="53" width="65" height="13" frameX="-43" frameY="0" frameWidth="134" frameHeight="14"/>
+	<SubTexture name="elec20004" x="65" y="53" width="32" height="9" frameX="-97" frameY="-3" frameWidth="134" frameHeight="14"/>
+	<SubTexture name="elec20005" x="97" y="53" width="10" height="3" frameX="-124" frameY="-9" frameWidth="134" frameHeight="14"/>
+	<SubTexture name="elec20006" x="107" y="53" width="0" height="0" frameX="-44" frameY="24" frameWidth="134" frameHeight="14"/>
+</TextureAtlas>

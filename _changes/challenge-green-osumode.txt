@@ -1,0 +1,18 @@
+mods/data/challenge-green/challenge-green-hard.json
+mods/data/challenge-green/challenge-green-nightmare.json
+mods/data/challenge-green/script.lua
+mods/stages/eddhouse-tord.json
+mods/stages/eddhouse-tord.lua
+mods/stages/eddhouse-nt.json
+mods/stages/eddhouse-nt.lua
+mods/custom_notetypes/Rocket Note.lua
+mods/custom_notetypes/Opponent Sing.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/sounds/magic shot.ogg
+mods/songs/challenge-green/Voices.ogg
+mods/songs/challenge-green/voices.ogg
+mods/songs/challenge-green/Inst.ogg
+mods/songs/challenge-green/inst.ogg

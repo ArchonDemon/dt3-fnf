@@ -1,0 +1,32 @@
+mods/data/hell-fire/hell-fire-hard.json
+mods/data/hell-fire/losing char 2.lua
+mods/data/hell-fire/losing char.lua
+mods/data/hell-fire/script.lua
+mods/characters/bf-dodge.json
+mods/characters/green.json
+mods/characters/gf.json
+mods/stages/house.json
+mods/stages/house.lua
+mods/images/characters/BoyFriend_Assets_dodge.png
+mods/images/characters/BoyFriend_Assets_dodge.xml
+mods/images/characters/green.png
+mods/images/characters/green.xml
+mods/images/characters/GF_ass.png
+mods/images/characters/GF_ass.xml
+mods/custom_notetypes/green.lua
+mods/custom_events/fire.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/images/house.png
+mods/images/note-green.png
+mods/images/note-green.xml
+mods/images/fucking annoying fire shit why did I make this.png
+mods/images/fucking annoying fire shit why did I make this.xml
+mods/images/highlights.png
+mods/images/highlights.xml
+mods/songs/hell-fire/Voices.ogg
+mods/songs/hell-fire/voices.ogg
+mods/songs/hell-fire/Inst.ogg
+mods/songs/hell-fire/inst.ogg

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				482,
+				363
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				304
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				425
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				267
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				261,
+				305
+			],
+			"anim": "fire",
+			"fps": 24,
+			"name": "yeet down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				307,
+				309
+			],
+			"anim": "ice",
+			"fps": 24,
+			"name": "yeet up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				268,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "rock",
+			"indices": [],
+			"name": "yeet right"
+		},
+		{
+			"offsets": [
+				187,
+				401
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "thunder",
+			"indices": [],
+			"name": "yeet left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				69,
+				323
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/green-nightmare",
+	"position": [
+		80,
+		420
+	],
+	"healthicon": "green-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-80,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

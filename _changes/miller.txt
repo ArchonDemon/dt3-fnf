@@ -1,0 +1,61 @@
+mods/data/miller/dad-icon.lua
+mods/data/miller/damage.lua
+mods/data/miller/evil-bf-icon.lua
+mods/data/miller/evil-bf.lua
+mods/data/miller/hench1.lua
+mods/data/miller/hench2.lua
+mods/data/miller/hench3.lua
+mods/data/miller/hench4.lua
+mods/data/miller/losing char.lua
+mods/data/miller/miller-hard.json
+mods/data/miller/mom-icon.lua
+mods/data/miller/peter.lua
+mods/data/miller/pico-icon.lua
+mods/data/miller/script.lua
+mods/data/miller/steven.lua
+mods/characters/bf-rpg.json
+mods/characters/gf-rpg.json
+mods/stages/void.json
+mods/stages/void.lua
+mods/images/characters/BOYFRIEND.png
+mods/images/characters/BOYFRIEND.xml
+mods/images/characters/GF_ass_sets.png
+mods/images/characters/GF_ass_sets.xml
+mods/custom_notetypes/Spite Note.lua
+mods/custom_events/Object Play Animation.lua
+mods/custom_events/Set Property.lua
+mods/custom_events/Alter Visibility.lua
+mods/custom_events/Decrease Alpha.lua
+mods/custom_events/Flash Camera.lua
+mods/custom_events/Lower Bars.lua
+mods/custom_events/Add Alpha.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/images/spite/hit.png
+mods/images/heal.png
+mods/images/flashbacks.png
+mods/images/millerint.png
+mods/images/flesh.png
+mods/images/characters/spooky_kids_assets.png
+mods/images/characters/spooky_kids_assets.xml
+mods/images/spite/spite1.png
+mods/images/spite/spite2.png
+mods/images/spite/spite3.png
+mods/images/spite/spite4.png
+mods/images/flashbacks.xml
+mods/images/millerint.xml
+mods/images/spite/hint.png
+mods/images/ty.png
+mods/images/heal.xml
+mods/images/spite/hit.xml
+mods/sounds/dmg-spite.ogg
+mods/images/spite/spitenote_Assets.png
+mods/images/spite/spitenote_Assets.xml
+mods/images/highlights.png
+mods/images/highlights.xml
+mods/songs/miller/Voices.ogg
+mods/songs/miller/voices.ogg
+mods/songs/miller/Inst.ogg
+mods/songs/miller/inst.ogg

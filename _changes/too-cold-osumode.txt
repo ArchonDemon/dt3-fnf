@@ -1,0 +1,11 @@
+mods/data/too-cold/too-cold-hard.json
+mods/stages/hell.json
+mods/stages/hell.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/songs/too-cold/Voices.ogg
+mods/songs/too-cold/voices.ogg
+mods/songs/too-cold/Inst.ogg
+mods/songs/too-cold/inst.ogg

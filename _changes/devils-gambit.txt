@@ -1,0 +1,42 @@
+mods/data/devils-gambit/damage.lua
+mods/data/devils-gambit/devils-gambit-blazin-to-death.json
+mods/data/devils-gambit/script.lua
+mods/data/devils-gambit/script2.lua
+mods/characters/bf-dodge-nt.json
+mods/characters/green-nightmare.json
+mods/characters/satan ded.json
+mods/stages/nightmare.json
+mods/stages/nightmare.lua
+mods/images/characters/BoyFriend_Assets_dodge-nt.png
+mods/images/characters/BoyFriend_Assets_dodge-nt.xml
+mods/images/characters/green-nightmare.png
+mods/images/characters/green-nightmare.xml
+mods/images/characters/satan ded.png
+mods/images/characters/satan ded.xml
+mods/characters/bf-fire-nt.json
+mods/images/characters/BoyFriend_Assets_fire-nt.png
+mods/images/characters/BoyFriend_Assets_fire-nt.xml
+mods/custom_notetypes/green.lua
+mods/custom_notetypes/hurt.lua
+mods/custom_events/fire.lua
+mods/custom_events/DodgeEvent.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/images/nightmare.png
+mods/images/note-green.png
+mods/images/note-green.xml
+mods/images/note-hurt.png
+mods/images/note-hurt.xml
+mods/images/fucking annoying fire shit why did I make this.png
+mods/images/fucking annoying fire shit why did I make this.xml
+mods/images/event.png
+mods/sounds/dmg-spite.ogg
+mods/images/event.xml
+mods/images/highlights.png
+mods/images/highlights.xml
+mods/songs/devils-gambit/Voices.ogg
+mods/songs/devils-gambit/voices.ogg
+mods/songs/devils-gambit/Inst.ogg
+mods/songs/devils-gambit/inst.ogg

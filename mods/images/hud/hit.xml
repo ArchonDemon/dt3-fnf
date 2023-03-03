@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hit.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="129" height="47" pivotX="-33.25" pivotY="-22.3" frameX="-250" frameY="-9" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0001" x="129" y="0" width="263" height="61" frameX="-25" frameY="0" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0002" x="0" y="61" width="126" height="126" frameX="0" frameY="-12" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0003" x="126" y="61" width="108" height="26" frameX="-51" frameY="-120" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0004" x="234" y="61" width="36" height="7" frameX="-141" frameY="-140" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0005" x="270" y="61" width="39" height="8" frameX="-146" frameY="-139" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0006" x="309" y="61" width="41" height="10" frameX="-147" frameY="-137" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0007" x="350" y="61" width="41" height="8" frameX="-149" frameY="-135" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0008" x="391" y="61" width="5" height="5" frameX="-185" frameY="-135" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0009" x="396" y="61" width="4" height="3" frameX="-186" frameY="-134" frameWidth="379" frameHeight="147"/>
+	<SubTexture name="idle0010" x="400" y="61" width="0" height="0" frameX="33" frameY="22" frameWidth="379" frameHeight="147"/>
+</TextureAtlas>

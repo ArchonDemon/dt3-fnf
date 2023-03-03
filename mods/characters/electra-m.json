@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				400
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				269
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				410
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-196,
+				265
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-235,
+				384
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				131,
+				579
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "enter",
+			"loop": false,
+			"name": "enter"
+		},
+		{
+			"offsets": [
+				131,
+				736
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "leave",
+			"loop": false,
+			"name": "leave"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/electra",
+	"position": [
+		-50,
+		300
+	],
+	"healthicon": "electra",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		123
+	],
+	"camera_position": [
+		0,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

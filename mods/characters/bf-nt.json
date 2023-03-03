@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				208,
+				299
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				20,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-42,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				40,
+				297
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				300
+			],
+			"anim": "dodge up",
+			"fps": 24,
+			"name": "bf dodge up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				238
+			],
+			"anim": "dodge down",
+			"fps": 24,
+			"name": "bf dodge down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				88,
+				282
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				101,
+				269
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge left",
+			"loop": false,
+			"name": "bf dodge right"
+		},
+		{
+			"offsets": [
+				87,
+				296
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge right",
+			"loop": false,
+			"name": "bf dodge left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFriend_Assets_nt",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-nt",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		50,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

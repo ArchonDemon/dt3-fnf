@@ -1,0 +1,13 @@
+mods/data/guard/guard-hard.json
+mods/data/guard/losing char.lua
+mods/stages/guardian lair.json
+mods/stages/guardian lair.lua
+mods/custom_events/Set Property.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/songs/guard/Voices.ogg
+mods/songs/guard/voices.ogg
+mods/songs/guard/Inst.ogg
+mods/songs/guard/inst.ogg

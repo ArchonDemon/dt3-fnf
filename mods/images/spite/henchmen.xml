@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchmen.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dancer down0000" x="0" y="0" width="249" height="383" pivotX="-121.2" pivotY="-1" frameX="-2" frameY="-7" frameWidth="251" frameHeight="390"/>
+	<SubTexture name="dancer down0001" x="0" y="0" width="249" height="383" frameX="-2" frameY="-7" frameWidth="251" frameHeight="390"/>
+	<SubTexture name="dancer down0002" x="249" y="0" width="251" height="390"/>
+	<SubTexture name="dancer down0003" x="249" y="0" width="251" height="390"/>
+	<SubTexture name="dancer down0004" x="249" y="0" width="251" height="390"/>
+	<SubTexture name="dancer down0005" x="249" y="0" width="251" height="390"/>
+	<SubTexture name="dancer hit0000" x="500" y="0" width="249" height="394" pivotX="-116.35" pivotY="3.5" frameX="-7" frameY="0" frameWidth="256" frameHeight="394"/>
+	<SubTexture name="dancer hit0001" x="500" y="0" width="249" height="394" frameX="-7" frameY="0" frameWidth="256" frameHeight="394"/>
+	<SubTexture name="dancer hit0002" x="749" y="0" width="250" height="391" frameX="-2" frameY="-2" frameWidth="256" frameHeight="394"/>
+	<SubTexture name="dancer hit0003" x="749" y="0" width="250" height="391" frameX="-2" frameY="-2" frameWidth="256" frameHeight="394"/>
+	<SubTexture name="dancer hit0004" x="999" y="0" width="255" height="387" frameX="0" frameY="-6" frameWidth="256" frameHeight="394"/>
+	<SubTexture name="dancer hit0005" x="999" y="0" width="255" height="387" frameX="0" frameY="-6" frameWidth="256" frameHeight="394"/>
+	<SubTexture name="dancer idle0000" x="1254" y="0" width="394" height="429" pivotX="0.85" pivotY="68.7" frameX="0" frameY="-29" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0001" x="1254" y="0" width="394" height="429" frameX="0" frameY="-29" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0002" x="1648" y="0" width="394" height="426" frameX="0" frameY="-32" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0003" x="1648" y="0" width="394" height="426" frameX="0" frameY="-32" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0004" x="1648" y="0" width="394" height="426" frameX="0" frameY="-32" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0005" x="2042" y="0" width="395" height="425" frameX="0" frameY="-33" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0006" x="2042" y="0" width="395" height="425" frameX="0" frameY="-33" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0007" x="2437" y="0" width="389" height="423" frameX="-6" frameY="-35" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0008" x="2437" y="0" width="389" height="423" frameX="-6" frameY="-35" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0009" x="2826" y="0" width="249" height="405" frameX="-123" frameY="-54" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0010" x="2826" y="0" width="249" height="405" frameX="-123" frameY="-54" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0011" x="3075" y="0" width="251" height="409" frameX="-121" frameY="-50" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0012" x="3075" y="0" width="251" height="409" frameX="-121" frameY="-50" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0013" x="3075" y="0" width="251" height="409" frameX="-121" frameY="-50" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0014" x="3075" y="0" width="251" height="409" frameX="-121" frameY="-50" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0015" x="3326" y="0" width="404" height="459" frameX="-113" frameY="0" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0016" x="3326" y="0" width="404" height="459" frameX="-113" frameY="0" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0017" x="0" y="459" width="394" height="455" frameX="-120" frameY="-3" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0018" x="0" y="459" width="394" height="455" frameX="-120" frameY="-3" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0019" x="0" y="459" width="394" height="455" frameX="-120" frameY="-3" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0020" x="394" y="459" width="395" height="453" frameX="-119" frameY="-5" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0021" x="394" y="459" width="395" height="453" frameX="-119" frameY="-5" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0022" x="789" y="459" width="395" height="451" frameX="-119" frameY="-7" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0023" x="789" y="459" width="395" height="451" frameX="-119" frameY="-7" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0024" x="1184" y="459" width="254" height="407" frameX="-141" frameY="-52" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0025" x="1184" y="459" width="254" height="407" frameX="-141" frameY="-52" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0026" x="1438" y="459" width="254" height="408" frameX="-139" frameY="-51" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0027" x="1438" y="459" width="254" height="408" frameX="-139" frameY="-51" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0028" x="1438" y="459" width="254" height="408" frameX="-139" frameY="-51" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer idle0029" x="1438" y="459" width="254" height="408" frameX="-139" frameY="-51" frameWidth="517" frameHeight="459"/>
+	<SubTexture name="dancer left0000" x="1692" y="459" width="394" height="394" pivotX="0.85" pivotY="4.85" frameX="0" frameY="0" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0001" x="1692" y="459" width="394" height="394" frameX="0" frameY="0" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0002" x="2086" y="459" width="394" height="391" frameX="0" frameY="-3" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0003" x="2086" y="459" width="394" height="391" frameX="0" frameY="-3" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0004" x="2086" y="459" width="394" height="391" frameX="0" frameY="-3" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0005" x="2480" y="459" width="395" height="390" frameX="0" frameY="-4" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0006" x="2480" y="459" width="395" height="390" frameX="0" frameY="-4" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0007" x="2875" y="459" width="389" height="385" frameX="-6" frameY="-9" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer left0008" x="2875" y="459" width="389" height="385" frameX="-6" frameY="-9" frameWidth="395" frameHeight="394"/>
+	<SubTexture name="dancer right0000" x="3264" y="459" width="404" height="410" pivotX="-113.4" pivotY="19.65"/>
+	<SubTexture name="dancer right0001" x="3264" y="459" width="404" height="410"/>
+	<SubTexture name="dancer right0002" x="3668" y="459" width="394" height="404" frameX="-7" frameY="-5" frameWidth="404" frameHeight="410"/>
+	<SubTexture name="dancer right0003" x="3668" y="459" width="394" height="404" frameX="-7" frameY="-5" frameWidth="404" frameHeight="410"/>
+	<SubTexture name="dancer right0004" x="3668" y="459" width="394" height="404" frameX="-7" frameY="-5" frameWidth="404" frameHeight="410"/>
+	<SubTexture name="dancer right0005" x="0" y="914" width="395" height="404" frameX="-6" frameY="-5" frameWidth="404" frameHeight="410"/>
+	<SubTexture name="dancer right0006" x="0" y="914" width="395" height="404" frameX="-6" frameY="-5" frameWidth="404" frameHeight="410"/>
+	<SubTexture name="dancer right0007" x="395" y="914" width="395" height="402" frameX="-6" frameY="-7" frameWidth="404" frameHeight="410"/>
+	<SubTexture name="dancer right0008" x="395" y="914" width="395" height="402" frameX="-6" frameY="-7" frameWidth="404" frameHeight="410"/>
+	<SubTexture name="dancer up0000" x="790" y="914" width="362" height="453" pivotX="-77.25" pivotY="59.2"/>
+	<SubTexture name="dancer up0001" x="790" y="914" width="362" height="453"/>
+	<SubTexture name="dancer up0002" x="1152" y="914" width="361" height="451" frameX="0" frameY="-2" frameWidth="362" frameHeight="453"/>
+	<SubTexture name="dancer up0003" x="1152" y="914" width="361" height="451" frameX="0" frameY="-2" frameWidth="362" frameHeight="453"/>
+	<SubTexture name="dancer up0004" x="1513" y="914" width="361" height="451" frameX="0" frameY="-2" frameWidth="362" frameHeight="453"/>
+	<SubTexture name="dancer up0005" x="1513" y="914" width="361" height="451" frameX="0" frameY="-2" frameWidth="362" frameHeight="453"/>
+	<SubTexture name="henchmen ded0000" x="1874" y="914" width="617" height="251" pivotX="0" pivotY="0"/>
+	<SubTexture name="henchmen ded0001" x="1874" y="914" width="617" height="251"/>
+	<SubTexture name="henchmen ded0002" x="1874" y="914" width="617" height="251"/>
+</TextureAtlas>

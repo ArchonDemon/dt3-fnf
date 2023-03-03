@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="energy ball.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="157" height="158" pivotX="0.1" pivotY="0.1"/>
+	<SubTexture name="green0000" x="157" y="0" width="157" height="158" pivotX="0.25" pivotY="8.05" frameX="0" frameY="-8" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="green0001" x="314" y="0" width="147" height="128" frameX="-17" frameY="-12" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="green0002" x="0" y="158" width="146" height="122" frameX="0" frameY="-12" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="green0003" x="146" y="158" width="126" height="134" frameX="-17" frameY="0" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="green0004" x="272" y="158" width="126" height="123" frameX="-17" frameY="-11" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="green0005" x="0" y="292" width="126" height="122" frameX="-17" frameY="-12" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="green0006" x="126" y="292" width="167" height="124" frameX="-4" frameY="-12" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="green0007" x="293" y="292" width="153" height="127" frameX="-17" frameY="-9" frameWidth="171" frameHeight="166"/>
+	<SubTexture name="purple0000" x="0" y="0" width="157" height="158" pivotX="0.1" pivotY="0.1"/>
+	<SubTexture name="red0000" x="0" y="0" width="157" height="158" pivotX="0.1" pivotY="0.1"/>
+</TextureAtlas>

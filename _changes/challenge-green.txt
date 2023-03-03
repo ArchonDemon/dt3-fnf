@@ -1,0 +1,78 @@
+mods/data/challenge-green/challenge-green-hard.json
+mods/data/challenge-green/challenge-green-nightmare.json
+mods/data/challenge-green/script.lua
+mods/characters/bf.json
+mods/characters/green-cg.json
+mods/characters/no-gf.json
+mods/stages/eddhouse-tord.json
+mods/stages/eddhouse-tord.lua
+mods/images/characters/Boyfriend_Assets.png
+mods/images/characters/Boyfriend_Assets.xml
+mods/images/characters/green-cg.png
+mods/images/characters/green-cg.xml
+mods/images/characters/no-gf.png
+mods/images/characters/no-gf.xml
+mods/characters/green-look.json
+mods/images/characters/green-look.png
+mods/images/characters/green-look.xml
+mods/characters/bf-look.json
+mods/images/characters/bf-look.png
+mods/images/characters/bf-look.xml
+mods/characters/satan.json
+mods/images/characters/satan cg.png
+mods/images/characters/satan cg.xml
+mods/characters/archon.json
+mods/images/characters/archon.png
+mods/images/characters/archon.xml
+mods/characters/green-side.json
+mods/images/characters/green-side.png
+mods/images/characters/green-side.xml
+mods/characters/green-cg-nt.json
+mods/stages/eddhouse-nt.json
+mods/stages/eddhouse-nt.lua
+mods/images/characters/green-cg-nt.png
+mods/images/characters/green-cg-nt.xml
+mods/characters/green-look-nt.json
+mods/images/characters/green-look-nt.png
+mods/images/characters/green-look-nt.xml
+mods/characters/satan-nt.json
+mods/images/characters/satan cg nt.png
+mods/images/characters/satan cg nt.xml
+mods/characters/green-side-nt.json
+mods/images/characters/green-side-nt.png
+mods/images/characters/green-side-nt.xml
+mods/custom_notetypes/Rocket Note.lua
+mods/custom_notetypes/Opponent Sing.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/images/SkyBox.png
+mods/images/Clouds.png
+mods/images/HousesAndFloor.png
+mods/images/roof.png
+mods/images/SecondParalax.png
+mods/images/Plane.png
+mods/images/Fence.png
+mods/images/rocks fg.png
+mods/images/green-yeet.png
+mods/images/green-yeet.xml
+mods/images/light.png
+mods/images/green.png
+mods/images/nightmare/SkyBox.png
+mods/images/nightmare/HousesAndFloor.png
+mods/images/nightmare/roof.png
+mods/images/nightmare/SecondParalax.png
+mods/images/nightmare/Plane.png
+mods/images/nightmare/Fence.png
+mods/images/nightmare/rocks fg.png
+mods/images/nightmare/green.png
+mods/images/energy ball.png
+mods/images/energy ball.xml
+mods/sounds/magic shot.ogg
+mods/images/highlights.png
+mods/images/highlights.xml
+mods/songs/challenge-green/Voices.ogg
+mods/songs/challenge-green/voices.ogg
+mods/songs/challenge-green/Inst.ogg
+mods/songs/challenge-green/inst.ogg

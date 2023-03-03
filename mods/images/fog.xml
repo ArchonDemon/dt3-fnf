@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fog.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fog0000" x="0" y="0" width="1904" height="1340" pivotX="306.9" pivotY="211.9" frameX="-25" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0001" x="1904" y="0" width="1933" height="1340" frameX="-5" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0002" x="3837" y="0" width="1940" height="1340" frameX="-2" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0003" x="5777" y="0" width="1944" height="1340"/>
+	<SubTexture name="fog0004" x="0" y="1340" width="1944" height="1340"/>
+	<SubTexture name="fog0005" x="3837" y="0" width="1940" height="1340" frameX="-2" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0006" x="1944" y="1340" width="1933" height="1340" frameX="-5" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0007" x="0" y="0" width="1904" height="1340" frameX="-25" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0008" x="3877" y="1340" width="1933" height="1340" frameX="-5" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0009" x="5810" y="1340" width="1940" height="1340" frameX="-2" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0010" x="0" y="2680" width="1944" height="1340"/>
+	<SubTexture name="fog0011" x="1944" y="2680" width="1944" height="1340"/>
+	<SubTexture name="fog0012" x="3888" y="2680" width="1939" height="1340" frameX="-3" frameY="0" frameWidth="1944" frameHeight="1340"/>
+	<SubTexture name="fog0013" x="5827" y="2680" width="1915" height="1340" frameX="-23" frameY="0" frameWidth="1944" frameHeight="1340"/>
+</TextureAtlas>

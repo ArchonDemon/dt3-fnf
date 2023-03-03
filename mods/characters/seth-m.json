@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-22,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				180,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				160,
+				265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-30,
+				262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				201,
+				302
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enter",
+			"indices": [],
+			"name": "enterNtalk"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				270
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				196,
+				468
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "leave",
+			"loop": false,
+			"name": "leave"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/seth",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "seth",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		0,
+		16
+	],
+	"camera_position": [
+		-120,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="green-yeet.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="counter0000" x="0" y="0" width="402" height="710" pivotX="-567.9" pivotY="-912.85" frameX="0" frameY="-12" frameWidth="422" frameHeight="722"/>
+	<SubTexture name="counter0001" x="402" y="0" width="413" height="703" frameX="0" frameY="-19" frameWidth="422" frameHeight="722"/>
+	<SubTexture name="counter0002" x="815" y="0" width="386" height="703" frameX="0" frameY="-19" frameWidth="422" frameHeight="722"/>
+	<SubTexture name="counter0003" x="1201" y="0" width="383" height="722" frameX="0" frameY="0" frameWidth="422" frameHeight="722"/>
+	<SubTexture name="counter0004" x="1584" y="0" width="383" height="705" frameX="0" frameY="-17" frameWidth="422" frameHeight="722"/>
+	<SubTexture name="counter0005" x="0" y="722" width="383" height="703" frameX="0" frameY="-19" frameWidth="422" frameHeight="722"/>
+	<SubTexture name="counter0006" x="383" y="722" width="422" height="703" frameX="0" frameY="-19" frameWidth="422" frameHeight="722"/>
+	<SubTexture name="counter0007" x="805" y="722" width="420" height="707" frameX="0" frameY="-15" frameWidth="422" frameHeight="722"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+--function onStepHit()
+	--if curStep == 10 then
+		--noteTweenDirection('leftTween', 4, 180, 1, circInOut)
+        --noteTweenDirection('DownTween', 5, 90, 1, circInOut)
+        --noteTweenDirection('UpTween', 6, -90, 1, circInOut)
+        --noteTweenDirection('RightTween', 7, 0, 1, circInOut)
+    --end
+--end

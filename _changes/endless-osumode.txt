@@ -1,0 +1,14 @@
+mods/data/endless/endless-hard.json
+mods/data/endless/events.json
+mods/data/endless/script.lua
+mods/stages/sonicfunstage.json
+mods/stages/sonicfunstage.lua
+mods/custom_events/TweenSpin.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/songs/endless/Voices.ogg
+mods/songs/endless/voices.ogg
+mods/songs/endless/Inst.ogg
+mods/songs/endless/inst.ogg

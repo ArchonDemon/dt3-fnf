@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				258
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				249
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				260
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				259
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				258
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				40,
+				258
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ice",
+			"indices": [],
+			"name": "ice"
+		},
+		{
+			"offsets": [
+				49,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fire",
+			"indices": [],
+			"name": "fire"
+		},
+		{
+			"offsets": [
+				42,
+				297
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "thunder",
+			"indices": [],
+			"name": "lightning"
+		},
+		{
+			"offsets": [
+				23,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "rock",
+			"indices": [],
+			"name": "spike"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/green-reanimated",
+	"position": [
+		80,
+		500
+	],
+	"healthicon": "green",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		140,
+		13
+	],
+	"camera_position": [
+		-80,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

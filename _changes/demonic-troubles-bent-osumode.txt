@@ -1,0 +1,14 @@
+mods/data/demonic-troubles-bent/electra.lua
+mods/data/demonic-troubles-bent/green.lua
+mods/data/demonic-troubles-bent/kas.lua
+mods/data/demonic-troubles-bent/note.lua
+mods/data/demonic-troubles-bent/reaper.lua
+mods/data/demonic-troubles-bent/satan.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/songs/demonic-troubles-bent/Voices.ogg
+mods/songs/demonic-troubles-bent/voices.ogg
+mods/songs/demonic-troubles-bent/Inst.ogg
+mods/songs/demonic-troubles-bent/inst.ogg

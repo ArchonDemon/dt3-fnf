@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="green.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="losing0000" x="0" y="0" width="146" height="125" pivotX="-72.95" pivotY="35.45"/>
+	<SubTexture name="losing + hp0000" x="146" y="0" width="144" height="124" pivotX="-72.4" pivotY="35.45" frameX="0" frameY="-1" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="losing + hp0001" x="290" y="0" width="144" height="125" frameX="-6" frameY="0" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="losing + hp0002" x="434" y="0" width="141" height="116" frameX="-11" frameY="-9" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="losing + hp0003" x="575" y="0" width="142" height="122" frameX="-7" frameY="-3" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="losing + hp0004" x="0" y="0" width="146" height="125"/>
+	<SubTexture name="losing - hp0000" x="717" y="0" width="151" height="123" pivotX="-67.45" pivotY="42.75" frameX="-12" frameY="-9" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="losing - hp0001" x="868" y="0" width="148" height="122" frameX="-11" frameY="-10" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="losing - hp0002" x="0" y="125" width="154" height="133" frameX="0" frameY="0" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="losing - hp0003" x="154" y="125" width="151" height="130" frameX="-4" frameY="-3" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="losing - hp0004" x="305" y="125" width="146" height="125" frameX="-5" frameY="-7" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="normal0000" x="451" y="125" width="146" height="125" pivotX="-72.95" pivotY="35.45"/>
+	<SubTexture name="normal + hp0000" x="597" y="125" width="144" height="123" pivotX="-72.4" pivotY="35.45" frameX="0" frameY="-1" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="normal + hp0001" x="741" y="125" width="144" height="124" frameX="-6" frameY="0" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="normal + hp0002" x="0" y="258" width="141" height="115" frameX="-11" frameY="-9" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="normal + hp0003" x="141" y="258" width="142" height="121" frameX="-7" frameY="-3" frameWidth="152" frameHeight="125"/>
+	<SubTexture name="normal + hp0004" x="451" y="125" width="146" height="125"/>
+	<SubTexture name="normal - hp0000" x="283" y="258" width="151" height="123" pivotX="-67.45" pivotY="42.75" frameX="-12" frameY="-9" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="normal - hp0001" x="434" y="258" width="148" height="122" frameX="-11" frameY="-10" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="normal - hp0002" x="582" y="258" width="154" height="133" frameX="0" frameY="0" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="normal - hp0003" x="736" y="258" width="151" height="130" frameX="-4" frameY="-3" frameWidth="163" frameHeight="133"/>
+	<SubTexture name="normal - hp0004" x="0" y="391" width="146" height="125" frameX="-5" frameY="-7" frameWidth="163" frameHeight="133"/>
+</TextureAtlas>

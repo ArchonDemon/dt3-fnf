@@ -1,0 +1,34 @@
+mods/data/knockout/knockout-hard.json
+mods/data/knockout/script.lua
+mods/characters/bf-dodge.json
+mods/characters/green.json
+mods/characters/dt3.json
+mods/stages/house.json
+mods/stages/house.lua
+mods/images/characters/BoyFriend_Assets_dodge.png
+mods/images/characters/BoyFriend_Assets_dodge.xml
+mods/images/characters/green.png
+mods/images/characters/green.xml
+mods/images/characters/funny.png
+mods/images/characters/funny.xml
+mods/characters/reaper-ded.json
+mods/characters/bf-fire.json
+mods/images/characters/BoyFriend_Assets_fire.png
+mods/images/characters/BoyFriend_Assets_fire.xml
+mods/custom_notetypes/green.lua
+mods/custom_events/fire.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/images/house.png
+mods/images/note-green.png
+mods/images/note-green.xml
+mods/images/fucking annoying fire shit why did I make this.png
+mods/images/fucking annoying fire shit why did I make this.xml
+mods/images/highlights.png
+mods/images/highlights.xml
+mods/songs/knockout/Voices.ogg
+mods/songs/knockout/voices.ogg
+mods/songs/knockout/Inst.ogg
+mods/songs/knockout/inst.ogg

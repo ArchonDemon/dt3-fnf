@@ -1,0 +1,144 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "void",
+		"player1": "bf-running",
+		"player2": "green-nightmare-run",
+		"player3": null,
+		"events": [
+			[
+				37725.0900360144,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-running-s"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-flying-s"
+					],
+					[
+						"Change Character",
+						"1",
+						"green-nightmare-s"
+					]
+				]
+			],
+			[
+				49159.6638655462,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-running"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-flying"
+					],
+					[
+						"Change Character",
+						"1",
+						"green-nightmare-run"
+					]
+				]
+			],
+			[
+				70948.3793517407,
+				[
+					[
+						"Change Character",
+						"1",
+						"green-flying"
+					]
+				]
+			],
+			[
+				95438.175270108,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-running-s"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-flying-s"
+					],
+					[
+						"Change Character",
+						"1",
+						"green-nightmare-s"
+					]
+				]
+			],
+			[
+				118487.394957983,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-flying"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-running"
+					],
+					[
+						"Change Character",
+						"1",
+						"green-nightmare-run"
+					]
+				]
+			],
+			[
+				130012.004801921,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-running-s"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-flying-s"
+					],
+					[
+						"Change Character",
+						"1",
+						"green-nightmare-s"
+					]
+				]
+			],
+			[
+				150180.072028812,
+				[
+					[
+						"Change Character",
+						"1",
+						"green-flying"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfgf-flying"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-flying",
+		"bpm": 166.6,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Nightmare-Run"
+	}
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="satan ded.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="0" y="0" width="920" height="558" pivotX="114.9" pivotY="64.75" frameX="0" frameY="-13" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0001" x="920" y="0" width="919" height="545" frameX="0" frameY="-26" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0002" x="1839" y="0" width="919" height="546" frameX="0" frameY="-25" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0003" x="2758" y="0" width="920" height="546" frameX="0" frameY="-25" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0004" x="0" y="558" width="920" height="552" frameX="0" frameY="-19" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0005" x="920" y="558" width="918" height="571" frameX="0" frameY="0" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0006" x="920" y="558" width="918" height="571" frameX="0" frameY="0" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0007" x="920" y="558" width="918" height="571" frameX="0" frameY="0" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0008" x="920" y="558" width="918" height="571" frameX="0" frameY="0" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceLeft0009" x="920" y="558" width="918" height="571" frameX="0" frameY="0" frameWidth="920" frameHeight="571"/>
+	<SubTexture name="danceRight0000" x="1838" y="558" width="920" height="573" pivotX="114.9" pivotY="69.1" frameX="0" frameY="-3" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0001" x="2758" y="558" width="919" height="569" frameX="0" frameY="-7" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0002" x="0" y="1131" width="919" height="571" frameX="0" frameY="-5" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0003" x="919" y="1131" width="920" height="571" frameX="0" frameY="-5" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0004" x="1839" y="1131" width="920" height="576"/>
+	<SubTexture name="danceRight0005" x="2759" y="1131" width="918" height="571" frameX="0" frameY="-5" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0006" x="2759" y="1131" width="918" height="571" frameX="0" frameY="-5" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0007" x="2759" y="1131" width="918" height="571" frameX="0" frameY="-5" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0008" x="2759" y="1131" width="918" height="571" frameX="0" frameY="-5" frameWidth="920" frameHeight="576"/>
+	<SubTexture name="danceRight0009" x="2759" y="1131" width="918" height="571" frameX="0" frameY="-5" frameWidth="920" frameHeight="576"/>
+</TextureAtlas>

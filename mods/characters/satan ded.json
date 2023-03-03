@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				370
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				375
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "danceRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satan ded",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "green-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-80,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

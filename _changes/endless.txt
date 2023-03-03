@@ -1,0 +1,46 @@
+mods/data/endless/endless-hard.json
+mods/data/endless/events.json
+mods/characters/tailsfun.json
+mods/images/characters/tails.png
+mods/images/characters/tails.xml
+mods/characters/knuckfun.json
+mods/images/characters/knuckles.png
+mods/images/characters/knuckles.xml
+mods/characters/sonicfun.json
+mods/images/characters/SonicFunAssets.png
+mods/images/characters/SonicFunAssets.xml
+mods/characters/fun.json
+mods/images/characters/fun.png
+mods/images/characters/fun.xml
+mods/data/endless/script.lua
+mods/characters/bf-blue.json
+mods/characters/gf.json
+mods/stages/sonicfunstage.json
+mods/stages/sonicfunstage.lua
+mods/images/characters/endless_bf.png
+mods/images/characters/endless_bf.xml
+mods/images/characters/GF_ass.png
+mods/images/characters/GF_ass.xml
+mods/custom_events/TweenSpin.lua
+mods/scripts/note-highlights.lua
+mods/scripts/shadow.lua
+mods/scripts/shadow2.lua
+mods/scripts/shadowOpp.lua
+mods/images/Sonicsus/MajinStage/sonicFUNsky.png
+mods/images/Sonicsus/MajinStage/Bush2.png
+mods/images/Sonicsus/MajinStage/Majin Boppers Back.png
+mods/images/Sonicsus/MajinStage/Majin Boppers Back.xml
+mods/images/Sonicsus/MajinStage/Bush 1.png
+mods/images/Sonicsus/MajinStage/Majin Boppers Front.png
+mods/images/Sonicsus/MajinStage/Majin Boppers Front.xml
+mods/images/Sonicsus/MajinStage/floor BG.png
+mods/images/Sonicsus/MajinStage/majin FG1.png
+mods/images/Sonicsus/MajinStage/majin FG1.xml
+mods/images/Sonicsus/MajinStage/majin FG2.png
+mods/images/Sonicsus/MajinStage/majin FG2.xml
+mods/images/highlights.png
+mods/images/highlights.xml
+mods/songs/endless/Voices.ogg
+mods/songs/endless/voices.ogg
+mods/songs/endless/Inst.ogg
+mods/songs/endless/inst.ogg

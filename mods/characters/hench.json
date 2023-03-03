@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dancer idle"
+		},
+		{
+			"offsets": [
+				0,
+				295
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hit",
+			"loop": false,
+			"name": "dancer hit"
+		},
+		{
+			"offsets": [
+				135,
+				385
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dancer left"
+		},
+		{
+			"offsets": [
+				140,
+				169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dancer down"
+		},
+		{
+			"offsets": [
+				74,
+				377
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dancer up"
+		},
+		{
+			"offsets": [
+				-48,
+				373
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dancer right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dead",
+			"loop": false,
+			"name": "henchmen ded"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "spite/henchmen",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "green",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		140,
+		13
+	],
+	"camera_position": [
+		0,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
