@@ -3,6 +3,30 @@ mods/data/hell-fire/losing char 2.lua
 mods/data/hell-fire/losing char.lua
 mods/data/hell-fire/mod.txt
 mods/data/hell-fire/script.lua
+mods/DT3/characters/bf-dodge.json
+mods/DT3/characters/green.json
+mods/DT3/characters/gf.json
+mods/DT3/stages/house.json
+mods/DT3/stages/house.lua
+mods/DT3/images/characters/BoyFriend_Assets_dodge.png
+mods/DT3/images/characters/BoyFriend_Assets_dodge.xml
+mods/DT3/images/characters/green.png
+mods/DT3/images/characters/green.xml
+mods/DT3/images/characters/GF_ass.png
+mods/DT3/images/characters/GF_ass.xml
+mods/DT3/custom_notetypes/green.lua
+mods/DT3/custom_events/fire.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/house.png
+mods/DT3/images/note-green.png
+mods/DT3/images/note-green.xml
+mods/DT3/images/fucking annoying fire shit why did I make this.png
+mods/DT3/images/fucking annoying fire shit why did I make this.xml
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/hell-fire/Voices.ogg
 mods/songs/hell-fire/voices.ogg
 mods/songs/hell-fire/Inst.ogg

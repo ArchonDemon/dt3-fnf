@@ -1,5 +1,12 @@
 mods/data/rain/mod.txt
 mods/data/rain/rain-hard.json
+mods/DT3/stages/rain.json
+mods/DT3/stages/rain.lua
+mods/DT3/custom_events/Toggle Trail.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
 mods/songs/rain/Voices.ogg
 mods/songs/rain/voices.ogg
 mods/songs/rain/Inst.ogg

@@ -1,9 +1,46 @@
 mods/data/despair/damage.lua
 mods/data/despair/despair-hard.json
 mods/data/despair/events.json
+mods/DT3/characters/bf-nt.json
+mods/DT3/images/characters/BoyFriend_Assets_nt.png
+mods/DT3/images/characters/BoyFriend_Assets_nt.xml
+mods/DT3/characters/gf-nt.json
+mods/DT3/images/characters/gf_ass_sets_nt.png
+mods/DT3/images/characters/gf_ass_sets_nt.xml
 mods/data/despair/mod.txt
 mods/data/despair/script.lua
 mods/data/despair/script2.lua
+mods/DT3/characters/bf-dodge-nt.json
+mods/DT3/characters/green-nightmare.json
+mods/DT3/characters/gf.json
+mods/DT3/stages/house ded.json
+mods/DT3/stages/house ded.lua
+mods/DT3/images/characters/BoyFriend_Assets_dodge-nt.png
+mods/DT3/images/characters/BoyFriend_Assets_dodge-nt.xml
+mods/DT3/images/characters/green-nightmare.png
+mods/DT3/images/characters/green-nightmare.xml
+mods/DT3/images/characters/GF_ass.png
+mods/DT3/images/characters/GF_ass.xml
+mods/DT3/custom_notetypes/hurt.lua
+mods/DT3/custom_notetypes/green.lua
+mods/DT3/custom_events/fire2.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/hell.png
+mods/DT3/images/house ded.png
+mods/DT3/images/rocks fg.png
+mods/DT3/images/nightmare.png
+mods/DT3/images/light.png
+mods/DT3/images/note-hurt.png
+mods/DT3/images/note-hurt.xml
+mods/DT3/images/note-green.png
+mods/DT3/images/note-green.xml
+mods/DT3/images/fucking annoying fire shit why did I make this.png
+mods/DT3/images/fucking annoying fire shit why did I make this.xml
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/despair/Voices.ogg
 mods/songs/despair/voices.ogg
 mods/songs/despair/Inst.ogg

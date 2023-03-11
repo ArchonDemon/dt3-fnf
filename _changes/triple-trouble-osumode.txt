@@ -7,6 +7,24 @@ mods/data/triple-trouble/note.lua
 mods/data/triple-trouble/reaper.lua
 mods/data/triple-trouble/satan.lua
 mods/data/triple-trouble/triple-trouble-hard.json
+mods/DT3/stages/tt.json
+mods/DT3/stages/tt.lua
+mods/DT3/custom_notetypes/poison note.lua
+mods/DT3/custom_notetypes/Satan.lua
+mods/DT3/custom_notetypes/Gren.lua
+mods/DT3/custom_notetypes/Kas.lua
+mods/DT3/custom_notetypes/Danger_Note.lua
+mods/DT3/custom_notetypes/Electra.lua
+mods/DT3/custom_notetypes/Seth.lua
+mods/DT3/custom_notetypes/hit note.lua
+mods/DT3/custom_notetypes/Reaper.lua
+mods/DT3/custom_events/static.lua
+mods/DT3/custom_events/Set Property.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/sounds/jumpscare.ogg
 mods/songs/triple-trouble/Voices.ogg
 mods/songs/triple-trouble/voices.ogg
 mods/songs/triple-trouble/Inst.ogg

@@ -3,6 +3,40 @@ mods/data/devils-gambit/devils-gambit-blazin-to-death.json
 mods/data/devils-gambit/mod.txt
 mods/data/devils-gambit/script.lua
 mods/data/devils-gambit/script2.lua
+mods/DT3/characters/bf-dodge-nt.json
+mods/DT3/characters/green-nightmare.json
+mods/DT3/characters/satan ded.json
+mods/DT3/stages/nightmare.json
+mods/DT3/stages/nightmare.lua
+mods/DT3/images/characters/BoyFriend_Assets_dodge-nt.png
+mods/DT3/images/characters/BoyFriend_Assets_dodge-nt.xml
+mods/DT3/images/characters/green-nightmare.png
+mods/DT3/images/characters/green-nightmare.xml
+mods/DT3/images/characters/satan ded.png
+mods/DT3/images/characters/satan ded.xml
+mods/DT3/characters/bf-fire-nt.json
+mods/DT3/images/characters/BoyFriend_Assets_fire-nt.png
+mods/DT3/images/characters/BoyFriend_Assets_fire-nt.xml
+mods/DT3/custom_notetypes/green.lua
+mods/DT3/custom_notetypes/hurt.lua
+mods/DT3/custom_events/fire.lua
+mods/DT3/custom_events/DodgeEvent.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/nightmare.png
+mods/DT3/images/note-green.png
+mods/DT3/images/note-green.xml
+mods/DT3/images/note-hurt.png
+mods/DT3/images/note-hurt.xml
+mods/DT3/images/fucking annoying fire shit why did I make this.png
+mods/DT3/images/fucking annoying fire shit why did I make this.xml
+mods/DT3/images/event.png
+mods/DT3/sounds/dmg-spite.ogg
+mods/DT3/images/event.xml
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/devils-gambit/Voices.ogg
 mods/songs/devils-gambit/voices.ogg
 mods/songs/devils-gambit/Inst.ogg

@@ -1,5 +1,25 @@
 mods/data/rain/mod.txt
 mods/data/rain/rain-hard.json
+mods/DT3/characters/green-rain.json
+mods/DT3/characters/no-gf.json
+mods/DT3/stages/rain.json
+mods/DT3/stages/rain.lua
+mods/DT3/images/characters/green-rain.png
+mods/DT3/images/characters/green-rain.xml
+mods/DT3/images/characters/no-gf.png
+mods/DT3/images/characters/no-gf.xml
+mods/DT3/custom_events/Toggle Trail.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/bg.png
+mods/DT3/images/fog.png
+mods/DT3/images/fog.xml
+mods/DT3/images/rain.png
+mods/DT3/images/rain.xml
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/rain/Voices.ogg
 mods/songs/rain/voices.ogg
 mods/songs/rain/Inst.ogg

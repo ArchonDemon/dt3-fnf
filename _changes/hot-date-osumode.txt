@@ -1,5 +1,11 @@
 mods/data/hot-date/hot-date-hard.json
 mods/data/hot-date/mod.txt
+mods/DT3/stages/eddhouse-nt.json
+mods/DT3/stages/eddhouse-nt.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
 mods/songs/hot-date/Voices.ogg
 mods/songs/hot-date/voices.ogg
 mods/songs/hot-date/Inst.ogg

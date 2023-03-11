@@ -3,6 +3,17 @@ mods/data/devils-gambit/devils-gambit-blazin-to-death.json
 mods/data/devils-gambit/mod.txt
 mods/data/devils-gambit/script.lua
 mods/data/devils-gambit/script2.lua
+mods/DT3/stages/nightmare.json
+mods/DT3/stages/nightmare.lua
+mods/DT3/custom_notetypes/green.lua
+mods/DT3/custom_notetypes/hurt.lua
+mods/DT3/custom_events/fire.lua
+mods/DT3/custom_events/DodgeEvent.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/sounds/dmg-spite.ogg
 mods/songs/devils-gambit/Voices.ogg
 mods/songs/devils-gambit/voices.ogg
 mods/songs/devils-gambit/Inst.ogg

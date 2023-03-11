@@ -2,6 +2,77 @@ mods/data/challenge-green/challenge-green-hard.json
 mods/data/challenge-green/challenge-green-nightmare.json
 mods/data/challenge-green/mod.txt
 mods/data/challenge-green/script.lua
+mods/DT3/characters/bf.json
+mods/DT3/characters/green-cg.json
+mods/DT3/characters/no-gf.json
+mods/DT3/stages/eddhouse-tord.json
+mods/DT3/stages/eddhouse-tord.lua
+mods/DT3/images/characters/Boyfriend_Assets.png
+mods/DT3/images/characters/Boyfriend_Assets.xml
+mods/DT3/images/characters/green-cg.png
+mods/DT3/images/characters/green-cg.xml
+mods/DT3/images/characters/no-gf.png
+mods/DT3/images/characters/no-gf.xml
+mods/DT3/characters/green-look.json
+mods/DT3/images/characters/green-look.png
+mods/DT3/images/characters/green-look.xml
+mods/DT3/characters/bf-look.json
+mods/DT3/images/characters/bf-look.png
+mods/DT3/images/characters/bf-look.xml
+mods/DT3/characters/satan.json
+mods/DT3/images/characters/satan cg.png
+mods/DT3/images/characters/satan cg.xml
+mods/DT3/characters/archon.json
+mods/DT3/images/characters/archon.png
+mods/DT3/images/characters/archon.xml
+mods/DT3/characters/green-side.json
+mods/DT3/images/characters/green-side.png
+mods/DT3/images/characters/green-side.xml
+mods/DT3/characters/green-cg-nt.json
+mods/DT3/stages/eddhouse-nt.json
+mods/DT3/stages/eddhouse-nt.lua
+mods/DT3/images/characters/green-cg-nt.png
+mods/DT3/images/characters/green-cg-nt.xml
+mods/DT3/characters/green-look-nt.json
+mods/DT3/images/characters/green-look-nt.png
+mods/DT3/images/characters/green-look-nt.xml
+mods/DT3/characters/satan-nt.json
+mods/DT3/images/characters/satan cg nt.png
+mods/DT3/images/characters/satan cg nt.xml
+mods/DT3/characters/green-side-nt.json
+mods/DT3/images/characters/green-side-nt.png
+mods/DT3/images/characters/green-side-nt.xml
+mods/DT3/custom_notetypes/Rocket Note.lua
+mods/DT3/custom_notetypes/Opponent Sing.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/SkyBox.png
+mods/DT3/images/Clouds.png
+mods/DT3/images/HousesAndFloor.png
+mods/DT3/images/roof.png
+mods/DT3/images/SecondParalax.png
+mods/DT3/images/Plane.png
+mods/DT3/images/Fence.png
+mods/DT3/images/rocks fg.png
+mods/DT3/images/green-yeet.png
+mods/DT3/images/green-yeet.xml
+mods/DT3/images/light.png
+mods/DT3/images/green.png
+mods/DT3/images/nightmare/SkyBox.png
+mods/DT3/images/nightmare/HousesAndFloor.png
+mods/DT3/images/nightmare/roof.png
+mods/DT3/images/nightmare/SecondParalax.png
+mods/DT3/images/nightmare/Plane.png
+mods/DT3/images/nightmare/Fence.png
+mods/DT3/images/nightmare/rocks fg.png
+mods/DT3/images/nightmare/green.png
+mods/DT3/images/energy ball.png
+mods/DT3/images/energy ball.xml
+mods/DT3/sounds/magic shot.ogg
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/challenge-green/Voices.ogg
 mods/songs/challenge-green/voices.ogg
 mods/songs/challenge-green/Inst.ogg

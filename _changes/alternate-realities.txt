@@ -2,6 +2,37 @@ mods/data/alternate-realities/alternate-realities-hard.json
 mods/data/alternate-realities/alternate-realities-nightmare.json
 mods/data/alternate-realities/mod.txt
 mods/data/alternate-realities/script.lua
+mods/DT3/characters/green-normal-playable.json
+mods/DT3/characters/green-nt.json
+mods/DT3/characters/gf.json
+mods/DT3/stages/hell.json
+mods/DT3/stages/hell.lua
+mods/DT3/images/characters/green-pl.png
+mods/DT3/images/characters/green-pl.xml
+mods/DT3/images/characters/green-nt.png
+mods/DT3/images/characters/green-nt.xml
+mods/DT3/images/characters/GF_ass.png
+mods/DT3/images/characters/GF_ass.xml
+mods/DT3/characters/green-nt-playable.json
+mods/DT3/characters/green-normal.json
+mods/DT3/images/characters/green-nt-pl.png
+mods/DT3/images/characters/green-nt-pl.xml
+mods/DT3/images/characters/green-a.png
+mods/DT3/images/characters/green-a.xml
+mods/DT3/custom_notetypes/phantomNotes.lua
+mods/DT3/custom_notetypes/staticNotes.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/hell/bg.png
+mods/DT3/images/hell/fg.png
+mods/DT3/images/poison note.png
+mods/DT3/images/poison note.xml
+mods/DT3/images/note_nightmare.png
+mods/DT3/images/note_nightmare.xml
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/alternate-realities/Voices.ogg
 mods/songs/alternate-realities/voices.ogg
 mods/songs/alternate-realities/Inst.ogg

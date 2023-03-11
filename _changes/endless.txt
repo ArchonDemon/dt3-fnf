@@ -1,7 +1,46 @@
 mods/data/endless/endless-hard.json
 mods/data/endless/events.json
+mods/DT3/characters/tailsfun.json
+mods/DT3/images/characters/tails.png
+mods/DT3/images/characters/tails.xml
+mods/DT3/characters/knuckfun.json
+mods/DT3/images/characters/knuckles.png
+mods/DT3/images/characters/knuckles.xml
+mods/DT3/characters/sonicfun.json
+mods/DT3/images/characters/SonicFunAssets.png
+mods/DT3/images/characters/SonicFunAssets.xml
+mods/DT3/characters/fun.json
+mods/DT3/images/characters/fun.png
+mods/DT3/images/characters/fun.xml
 mods/data/endless/mod.txt
 mods/data/endless/script.lua
+mods/DT3/characters/bf-blue.json
+mods/DT3/characters/gf.json
+mods/DT3/stages/sonicfunstage.json
+mods/DT3/stages/sonicfunstage.lua
+mods/DT3/images/characters/endless_bf.png
+mods/DT3/images/characters/endless_bf.xml
+mods/DT3/images/characters/GF_ass.png
+mods/DT3/images/characters/GF_ass.xml
+mods/DT3/custom_events/TweenSpin.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/Sonicsus/MajinStage/sonicFUNsky.png
+mods/DT3/images/Sonicsus/MajinStage/Bush2.png
+mods/DT3/images/Sonicsus/MajinStage/Majin Boppers Back.png
+mods/DT3/images/Sonicsus/MajinStage/Majin Boppers Back.xml
+mods/DT3/images/Sonicsus/MajinStage/Bush 1.png
+mods/DT3/images/Sonicsus/MajinStage/Majin Boppers Front.png
+mods/DT3/images/Sonicsus/MajinStage/Majin Boppers Front.xml
+mods/DT3/images/Sonicsus/MajinStage/floor BG.png
+mods/DT3/images/Sonicsus/MajinStage/majin FG1.png
+mods/DT3/images/Sonicsus/MajinStage/majin FG1.xml
+mods/DT3/images/Sonicsus/MajinStage/majin FG2.png
+mods/DT3/images/Sonicsus/MajinStage/majin FG2.xml
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/endless/Voices.ogg
 mods/songs/endless/voices.ogg
 mods/songs/endless/Inst.ogg

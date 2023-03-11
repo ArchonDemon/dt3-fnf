@@ -2,6 +2,26 @@ mods/data/golden/golden-hard.json
 mods/data/golden/kas.lua
 mods/data/golden/mod.txt
 mods/data/golden/note.lua
+mods/DT3/characters/bf.json
+mods/DT3/characters/green.json
+mods/DT3/stages/house.json
+mods/DT3/stages/house.lua
+mods/DT3/images/characters/Boyfriend_Assets.png
+mods/DT3/images/characters/Boyfriend_Assets.xml
+mods/DT3/images/characters/green.png
+mods/DT3/images/characters/green.xml
+mods/DT3/custom_notetypes/p2.lua
+mods/DT3/custom_notetypes/p1p2.lua
+mods/DT3/custom_events/Set Cam Zoom.lua
+mods/DT3/custom_events/Decrease Alpha.lua
+mods/DT3/custom_events/Alter Visibility.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/house.png
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/golden/Voices.ogg
 mods/songs/golden/voices.ogg
 mods/songs/golden/Inst.ogg

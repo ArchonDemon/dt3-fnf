@@ -14,6 +14,48 @@ mods/data/miller/peter.lua
 mods/data/miller/pico-icon.lua
 mods/data/miller/script.lua
 mods/data/miller/steven.lua
+mods/DT3/characters/bf-rpg.json
+mods/DT3/characters/gf-rpg.json
+mods/DT3/stages/void.json
+mods/DT3/stages/void.lua
+mods/DT3/images/characters/BOYFRIEND.png
+mods/DT3/images/characters/BOYFRIEND.xml
+mods/DT3/images/characters/GF_ass_sets.png
+mods/DT3/images/characters/GF_ass_sets.xml
+mods/DT3/custom_notetypes/Spite Note.lua
+mods/DT3/custom_events/Object Play Animation.lua
+mods/DT3/custom_events/Set Property.lua
+mods/DT3/custom_events/Alter Visibility.lua
+mods/DT3/custom_events/Decrease Alpha.lua
+mods/DT3/custom_events/Flash Camera.lua
+mods/DT3/custom_events/Lower Bars.lua
+mods/DT3/custom_events/Add Alpha.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/images/spite/hit.png
+mods/DT3/images/heal.png
+mods/DT3/images/flashbacks.png
+mods/DT3/images/millerint.png
+mods/DT3/images/flesh.png
+mods/DT3/images/characters/spooky_kids_assets.png
+mods/DT3/images/characters/spooky_kids_assets.xml
+mods/DT3/images/spite/spite1.png
+mods/DT3/images/spite/spite2.png
+mods/DT3/images/spite/spite3.png
+mods/DT3/images/spite/spite4.png
+mods/DT3/images/flashbacks.xml
+mods/DT3/images/millerint.xml
+mods/DT3/images/spite/hint.png
+mods/DT3/images/ty.png
+mods/DT3/images/heal.xml
+mods/DT3/images/spite/hit.xml
+mods/DT3/sounds/dmg-spite.ogg
+mods/DT3/images/spite/spitenote_Assets.png
+mods/DT3/images/spite/spitenote_Assets.xml
+mods/DT3/images/highlights.png
+mods/DT3/images/highlights.xml
 mods/songs/miller/Voices.ogg
 mods/songs/miller/voices.ogg
 mods/songs/miller/Inst.ogg

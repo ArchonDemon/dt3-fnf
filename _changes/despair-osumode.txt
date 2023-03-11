@@ -4,6 +4,15 @@ mods/data/despair/events.json
 mods/data/despair/mod.txt
 mods/data/despair/script.lua
 mods/data/despair/script2.lua
+mods/DT3/stages/house ded.json
+mods/DT3/stages/house ded.lua
+mods/DT3/custom_notetypes/hurt.lua
+mods/DT3/custom_notetypes/green.lua
+mods/DT3/custom_events/fire2.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
 mods/songs/despair/Voices.ogg
 mods/songs/despair/voices.ogg
 mods/songs/despair/Inst.ogg

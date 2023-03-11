@@ -14,6 +14,21 @@ mods/data/miller/peter.lua
 mods/data/miller/pico-icon.lua
 mods/data/miller/script.lua
 mods/data/miller/steven.lua
+mods/DT3/stages/void.json
+mods/DT3/stages/void.lua
+mods/DT3/custom_notetypes/Spite Note.lua
+mods/DT3/custom_events/Object Play Animation.lua
+mods/DT3/custom_events/Set Property.lua
+mods/DT3/custom_events/Alter Visibility.lua
+mods/DT3/custom_events/Decrease Alpha.lua
+mods/DT3/custom_events/Flash Camera.lua
+mods/DT3/custom_events/Lower Bars.lua
+mods/DT3/custom_events/Add Alpha.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/sounds/dmg-spite.ogg
 mods/songs/miller/Voices.ogg
 mods/songs/miller/voices.ogg
 mods/songs/miller/Inst.ogg

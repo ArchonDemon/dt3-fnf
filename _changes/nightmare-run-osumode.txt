@@ -3,6 +3,15 @@ mods/data/nightmare-run/legfix.lua
 mods/data/nightmare-run/mod.txt
 mods/data/nightmare-run/nightmare-run-hard.json
 mods/data/nightmare-run/script.lua
+mods/DT3/stages/bendy.json
+mods/DT3/stages/bendy.lua
+mods/DT3/custom_notetypes/poison note.lua
+mods/DT3/custom_notetypes/hurt.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
+mods/DT3/sounds/jumpscare.ogg
 mods/songs/nightmare-run/Voices.ogg
 mods/songs/nightmare-run/voices.ogg
 mods/songs/nightmare-run/Inst.ogg

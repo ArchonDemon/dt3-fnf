@@ -3,6 +3,14 @@ mods/data/hell-fire/losing char 2.lua
 mods/data/hell-fire/losing char.lua
 mods/data/hell-fire/mod.txt
 mods/data/hell-fire/script.lua
+mods/DT3/stages/house.json
+mods/DT3/stages/house.lua
+mods/DT3/custom_notetypes/green.lua
+mods/DT3/custom_events/fire.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
 mods/songs/hell-fire/Voices.ogg
 mods/songs/hell-fire/voices.ogg
 mods/songs/hell-fire/Inst.ogg

@@ -2,6 +2,14 @@ mods/data/alternate-realities/alternate-realities-hard.json
 mods/data/alternate-realities/alternate-realities-nightmare.json
 mods/data/alternate-realities/mod.txt
 mods/data/alternate-realities/script.lua
+mods/DT3/stages/hell.json
+mods/DT3/stages/hell.lua
+mods/DT3/custom_notetypes/phantomNotes.lua
+mods/DT3/custom_notetypes/staticNotes.lua
+mods/DT3/scripts/note-highlights.lua
+mods/DT3/scripts/shadow.lua
+mods/DT3/scripts/shadow2.lua
+mods/DT3/scripts/shadowOpp.lua
 mods/songs/alternate-realities/Voices.ogg
 mods/songs/alternate-realities/voices.ogg
 mods/songs/alternate-realities/Inst.ogg
